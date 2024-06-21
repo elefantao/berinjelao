@@ -5,6 +5,10 @@
     align-items: center;
 }
 
+.foto{
+width: 40%;
+
+}
 header{
     display: flex;
     align-items: center;
