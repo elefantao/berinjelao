@@ -1,4 +1,4 @@
-.lavoura{
+.introducao{
     background-size: 100% 100%;
     height: 300px;
     width: 70%;
@@ -12,12 +12,6 @@
 }
 
 header{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-.introducao{
     display: flex;
     align-items: center;
     justify-content: space-around;
