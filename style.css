@@ -25,6 +25,13 @@ header{
 
 }
 
-.ASDFGHJK{
+.sensor{
+    width: 30%;
+}
+.temporizador{
+width: 30%;
+}
+
+.chuva{
     width: 30%;
 }
