@@ -45,7 +45,8 @@ background-color: #798436;
 
 }
 
-.nos{
-    align-items: center;
-    background-size: 100% 100%;
+.prod{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
 }
